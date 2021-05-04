@@ -41,12 +41,12 @@ const ProjectSection = () => {
             </div>
             <div className="row mt-4">
               <div className="col-6">
-                <a href="https://ngo-charity.herokuapp.com/" className="btn secondary-btn border-radius text-center btn-block pb-2">
+                <a href="https://ngo-charity.herokuapp.com/" className="btn secondary-btn border-radius text-center btn-block pb-2" target="_blank">
                   Live Demo &nbsp; <i className="fa fa-edit"></i>
                 </a>
               </div>
               <div className="col-6">
-                <a href="https://github.com/kevingarry97/charity-ReactApp-" className="btn secondary-outline-btn border-radius btn-block">
+                <a href="https://github.com/kevingarry97/charity-ReactApp-" className="btn secondary-outline-btn border-radius btn-block" target="_blank">
                   Source Code &nbsp; <i className="fa fa-github secondary-text"></i>
                 </a>
               </div>
@@ -81,12 +81,12 @@ const ProjectSection = () => {
             </div>
             <div className="row mt-4">
               <div className="col-6">
-                <a href="https://chatweb.netlify.app" className="btn secondary-btn border-radius text-center btn-block pb-2">
+                <a href="https://chatweb.netlify.app" className="btn secondary-btn border-radius text-center btn-block pb-2" target="_blank">
                   Live Demo &nbsp; <i className="fa fa-edit"></i>
                 </a>
               </div>
               <div className="col-6">
-                <a href="https://github.com/kevingarry97/chat-app" className="btn secondary-outline-btn border-radius btn-block">
+                <a href="https://github.com/kevingarry97/chat-app" className="btn secondary-outline-btn border-radius btn-block" target="_blank">
                   Source Code &nbsp; <i className="fa fa-github secondary-text"></i>
                 </a>
               </div>
@@ -121,12 +121,12 @@ const ProjectSection = () => {
             </div>
             <div className="row mt-4">
               <div className="col-6">
-                <a href="http://www.acyira.com/" className="btn secondary-btn border-radius text-center btn-block pb-2">
+                <a href="http://www.acyira.com/" className="btn secondary-btn border-radius text-center btn-block pb-2" target="_blank">
                   Live Demo &nbsp; <i className="fa fa-edit"></i>
                 </a>
               </div>
               <div className="col-6">
-                <a href="https://github.com/yeex/Akira" className="btn secondary-outline-btn border-radius btn-block">
+                <a href="https://github.com/yeex/Akira" className="btn secondary-outline-btn border-radius btn-block" target="_blank">
                   Source Code &nbsp; <i className="fa fa-github secondary-text"></i>
                 </a>
               </div>
