@@ -1,0 +1,51 @@
+.navbar.active {
+  background-color: #fff !important;
+}
+.primary-text {
+  color: #FCA311 !important;
+}
+.secondary-text {
+  color: #219EBC !important;
+}
+.primary-btn {
+  color: #fff;
+  background-color: #FCA311;
+  border: 0 !important;
+}
+.secondary-btn {
+  color: #fff !important;
+  background-color: #219EBC !important;
+  border: 0 !important;
+}
+.secondary-outline-btn {
+  color: #219EBC !important;
+  border: 2px solid #219EBC;
+}
+.border-radius {
+  border-radius: 50px;
+}
+.card-primary {
+  background-color: #0F1E3E !important;
+  color: #fff !important;
+}
+
+.card-secondary {
+  background-color: #192744 !important;
+  color: #fff !important;
+}
+
+@media(max-width: 720px) {
+  .navbar .navbar-collapse {
+    background-color: #fff !important;
+    position: absolute;
+    font-weight: 700;
+    top: 65px;
+    right: 0;
+    left: 0;
+    border-top: 1px solid #f9f9f9;
+    padding: 20px;
+  }
+  .nav-link {
+    color: #0F1E3E !important;
+  }
+}
