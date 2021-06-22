@@ -1,5 +1,6 @@
 import React from 'react';
 import Skills from '../assets/images/Skills Image-min.png'
+import CV from '../assets/documents/KevinCV.pdf'
 
 const SkillSection = () => {
   return (  
@@ -8,7 +9,7 @@ const SkillSection = () => {
           <div className="row">
             <div className="col-lg-5 my-lg-0 my-3">
               <img src={Skills} className="img-fluid py-4" alt=""/>
-              <a href="../assets/documents/newKevinCV.pdf" download className="btn primary-btn border-radius shadow px-4 py-2"><strong>Download cv</strong></a>
+              <a href={CV} download className="btn primary-btn border-radius shadow px-4 py-2"><strong>Download cv</strong></a>
             </div>
             <div className="col-lg-6 offset-lg-1 my-lg-0 my-3">
               <h3 className="font-weight-bold text-white pb-3">

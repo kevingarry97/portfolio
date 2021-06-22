@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import Resume from '../assets/documents/KevinResume.pdf';
 
 const ExperienceSection = () => {
   return ( 
@@ -140,7 +141,7 @@ const ExperienceSection = () => {
             </div>
           </div>
           <div className="col-md-3 my-2">
-            <a href="../assets/documents/kevinResume.pdf" download className="btn card-primary border-radius btn-block btn-lg mb-4">
+            <a href={Resume} download className="btn card-primary border-radius btn-block btn-lg mb-4">
               <strong>Resume &nbsp;&nbsp;&nbsp; <i className="fa fa-file-text primary-text"></i></strong>
             </a>
             <a href="https://github.com/kevingarry97" className="btn card-secondary border-radius btn-block btn-lg my-4">
