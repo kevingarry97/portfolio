@@ -150,6 +150,9 @@ const ExperienceSection = () => {
             <a href="https://www.linkedin.com/in/kevin-ishimwe-335251133/" className="btn card-secondary border-radius btn-block btn-lg my-4">
               <strong>Linked &nbsp;&nbsp;&nbsp; <i className="fa fa-linkedin primary-text"></i></strong>
             </a>
+            <a href="https://www.twine.net/KevinGarry" className="btn card-secondary border-radius btn-block btn-lg my-4">
+              <strong>Twine &nbsp;&nbsp;&nbsp; </strong>
+            </a>
           </div>
         </div>
         <p className="text-white text-center pt-5"><small className="font-weight-bold">Copyright © 2021 By Kevin ISHIMWE. All Rights Reserved</small></p>
