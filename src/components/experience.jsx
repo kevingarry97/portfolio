@@ -60,6 +60,14 @@ const ExperienceSection = () => {
                 </div>
                 <div className="clearfix py-2">
                   <div className="float-left">
+                    <h6 className="font-weight-bold text-white">Next.Js</h6>
+                  </div>
+                  <div className="float-right">
+                    <i className="fa fa-chevron-right primary-text"></i>
+                  </div>
+                </div>
+                <div className="clearfix py-2">
+                  <div className="float-left">
                     <h6 className="font-weight-bold text-white">Angular</h6>
                   </div>
                   <div className="float-right">
